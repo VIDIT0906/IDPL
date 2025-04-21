@@ -1,2 +1,2 @@
 # IDPL
-Everything used during intership at IDPL
+Everything used during intership at IDPL.
